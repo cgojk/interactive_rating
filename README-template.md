@@ -2,10 +2,12 @@
 
 ### Screenshot
 
+![interactive rating](image.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/cgojk/interactive_rating.git)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://frolicking-brioche-7d335b.netlify.app/)
 
 ## My process
 
@@ -16,8 +18,6 @@
 - Mobile-first workflow
 
 ### What I learned
-
-U
 
 ## Author
 
